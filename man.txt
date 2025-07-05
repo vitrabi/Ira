@@ -1,0 +1,7 @@
+
+
+Initialized empty Git repository in /data/data/com.termux/files/home/test/ира/.git/
+
+путем:
+
+git init

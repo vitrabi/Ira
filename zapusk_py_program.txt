@@ -1,0 +1,25 @@
+Welcome to Termux
+
+Docs:       https://doc.termux.com
+Community:  https://community.termux.com
+
+Working with packages:
+ - Search:  pkg search <query>
+ - Install: pkg install <package>
+ - Upgrade: pkg upgrade
+
+Report issues at https://bugs.termux.com
+~ $ ls
+storage  test
+~ $ cd test
+~/test $ ls
+f1  py_test  ира  редакторы
+~/test $ cd ира
+~/test/ира $ ls
+i_love_odessa.py
+~/test/ира $ python i_love_odessa.py
+
+ я родилась в Одессе
+ ее люблю я очень
+
+~/test/ира $
