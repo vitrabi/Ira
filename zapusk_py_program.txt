@@ -10,16 +10,4 @@ Working with packages:
 
 Report issues at https://bugs.termux.com
 ~ $ ls
-storage  test
-~ $ cd test
-~/test $ ls
-f1  py_test  ира  редакторы
-~/test $ cd ира
-~/test/ира $ ls
-i_love_odessa.py
-~/test/ира $ python i_love_odessa.py
 
- я родилась в Одессе
- ее люблю я очень
-
-~/test/ира $

@@ -1,7 +1,5 @@
 
 
-Initialized empty Git repository in /data/data/com.termux/files/home/test/ира/.git/
-
-путем:
+Initialized empty Git repository
 
 git init
